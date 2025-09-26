@@ -1,0 +1,11 @@
+C:\Users\grana\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\grana\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\grana\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
+C:\Users\grana\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
